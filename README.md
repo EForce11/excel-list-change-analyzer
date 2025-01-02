@@ -24,6 +24,7 @@ The example data provided in this repository is completely fictional and was gen
 The project uses sample data for demonstration purposes:
 - **Names**: Randomly generated using dictionaries of foreign first and last names.
 - **Phone Numbers**: Randomly generated in Turkey's phone number format (e.g., +90 XXX XXX XX XX).
+- To create this randomly generated data, the `anonymize_data.py` script from the current repo was used. You can see the process of generating the random data from the script.
 
 ### Example Excel Files
 Two example Excel files (`file_before.xlsx` and `file_after.xlsx`) are included to demonstrate the script's functionality. These files do not contain real data.
